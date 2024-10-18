@@ -16,9 +16,6 @@
     <PackageReference Include="MSTest.TestFramework" Version="3.1.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ST10390916_PROG_POE\ST10390916_PROG_POE.csproj" />
-  </ItemGroup>
 	
   <ItemGroup>
     <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
